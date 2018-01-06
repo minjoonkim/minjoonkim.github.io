@@ -1,8 +1,12 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+- name: Seoul National University
+  link: http://www.snu.ac.kr/
+  date: 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   descr: <br> (expected graduation in 2019)
 
-- name: Harvard
-  link: http://www.harvard.edu/
+- name: Yonsei University
+  link: http://www.yonsei.ac.kr/
+  date: 2011 - 2015
+
+- name: University of Colorado @Boulder
+  link: http://www.colorado.edu/
   date: 2007 - 2011
