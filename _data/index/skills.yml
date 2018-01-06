@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Collaboration, Data Analysis, HTML/CSS, Python, C++, PM
-percentage: 95, 80, 70, 90, 70, 80
+aspects: Collaboration, Data Analysis, Python, HTML/CSS, C++, PM
+percentage: 95, 80, 90, 70, 70, 80
