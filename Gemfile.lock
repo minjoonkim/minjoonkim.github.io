@@ -24,7 +24,6 @@ GEM
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.16.2)
-    leonids (0.2.1)
     liquid (4.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -52,7 +51,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
-  leonids (~> 0.2.1)
   tzinfo-data
 
 BUNDLED WITH
