@@ -20,6 +20,9 @@ highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 
+plugins:
+    - jekyll-seo-tag
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
