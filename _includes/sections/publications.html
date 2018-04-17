@@ -5,7 +5,6 @@
             <div class="col">
                 <h4 style="margin: 0">{{ project.name }}</h4>
                 <p style="margin: 0; font-style: italic;">{{ project.authors }}</p>
-                <p style="margin-bottom: : 20px">{{ project.descr }}</p>
 
                 {% if project.github %}
                 <a href="{{ project.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
@@ -14,7 +13,10 @@
                 <a href="{{ project.pdf }} "><i class="fa fa-fw fa-home"></i>[PDF]</a>
                 {% endif %}
                 {% if project.award %}
-                <p style="margin: 0; color: #8C7FD8; font-weight: 500;">{{ project.award }}</p>
+                <p style="margin: 0;">{{ project.descr }}</p>
+                <p style="margin: 15px 0 20px 0; color: #8C7FD8; font-weight: 700;">{{ project.award }}</p>
+                {% else %}
+                <p style="margin: 15px 0 20px 0;">{{ project.descr }}</p>
                 {% endif %}
 
             </div>
