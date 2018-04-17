@@ -4,7 +4,7 @@
 #   github: https://github.com/renyuanz/leonids
 
 - name: Television Audio Experience
-  desc: Project with Samsung Electronics, Mar. 2017 - Dec. 2017 | Investigating user behaviors while watching television, identifying user satisfaction while watching television by analyzing various log data from the TV, remote controller, bluetooth trackers, and chatbots.
+  descr: Project with Samsung Electronics, Mar. 2017 - Dec. 2017 | Investigating user behaviors while watching television, identifying user satisfaction while watching television by analyzing various log data from the TV, remote controller, bluetooth trackers, and chatbots.
 
 - name: News Big Data -- User Participatory Services
-  desc: Project with senior research fellow Dr. Daemin Park of the  Korea Press Foundation | Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well founded news articles with official quotes and sources.
+  descr: Project with senior research fellow Dr. Daemin Park of the  Korea Press Foundation | Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well founded news articles with official quotes and sources.
