@@ -1,12 +1,12 @@
 - name: Seoul National University
   link: http://www.snu.ac.kr/
-  date: 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: 2015 &mdash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   descr: <br> (expected graduation in 2019)
 
 - name: Yonsei University
   link: http://www.yonsei.ac.kr/
-  date: 2011 - 2015
+  date: 2011 &mdash; 2015
 
 - name: University of Colorado @Boulder
   link: http://www.colorado.edu/
-  date: 2007 - 2011
+  date: 2007 &mdash; 2011
