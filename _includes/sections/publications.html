@@ -1,21 +1,23 @@
 <h1><span data-i18n="skills.my_skills">Publications</span></h1>
 
 {% for project in site.data.index.publications %}
-    <div class="row">
+    <div class="row" style="margin-bottom: 20px">
             <div class="col">
                 <p style="margin: 0;">{{ project.authors }}</p>
                 <p style="margin: 0; font-weight: 700;">{{ project.name }}</p>
+                <p style="margin: 0;">{{ project.descr }}</p>
 
                 {% if project.github %}
                 <a href="{{ project.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
                 {% endif %}
+
                 {% if project.award %}
-                <p style="margin: 0;">{{ project.descr }}</p>{% if project.url %}<a href="{{ project.url }} "><i class="fa fa-external-link"></i>[URL]</a>{% endif %}
-                <p style="margin: 0 0 20px 0; color: #8C7FD8; font-weight: 700;">{{ project.award }}</p>
-                {% else %}
-                <p style="margin: 0 0 20px 0;">{{ project.descr }}</p>{% if project.url %}<a href="{{ project.url }} "><i class="fa fa-external-link"></i>[URL]</a>{% endif %}
+                <p style="margin: 0; color: #8C7FD8; font-weight: 700;">{{ project.award }}</p>
                 {% endif %}
 
+                {% if project.url %}
+                <a href="{{ project.url }} "><i class="fa fa-external-link-square"></i>  [URL]</a>
+                {% endif %}
             </div>
     </div>
 {% endfor %}
