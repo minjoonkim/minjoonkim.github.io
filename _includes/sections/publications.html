@@ -9,14 +9,17 @@
                 {% if project.github %}
                 <a href="{{ project.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
                 {% endif %}
-                {% if project.website %}
-                <a href="{{ project.pdf }} "><i class="fa fa-fw fa-home"></i>[PDF]</a>
-                {% endif %}
                 {% if project.award %}
                 <p style="margin: 0;">{{ project.descr }}</p>
+                {% if project.url %}
+                <a href="{{ project.url }} "><i class="fa fa-fw fa-home"></i>[URL]</a>
+                {% endif %}
                 <p style="margin: 0 0 20px 0; color: #8C7FD8; font-weight: 700;">{{ project.award }}</p>
                 {% else %}
                 <p style="margin: 0 0 20px 0;">{{ project.descr }}</p>
+                {% if project.url %}
+                <a href="{{ project.url }} "><i class="fa fa-fw fa-home"></i>[URL]</a>
+                {% endif %}
                 {% endif %}
 
             </div>
