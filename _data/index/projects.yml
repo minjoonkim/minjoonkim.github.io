@@ -1,12 +1,13 @@
-# - name: leonids
-#   descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-#   image: pong.png
-#   github: https://github.com/renyuanz/leonids
-
 - name: Television Audio Experience
   dates: Project with Samsung Electronics, Mar. 2017 - Dec. 2017
   descr: Investigating user behaviors while watching television, identifying user satisfaction while watching television by analyzing various log data from the TV, remote controller, bluetooth trackers, and chatbots.
 
-# - name: News Big Data - User Participatory Services
-#   dates: Project with senior research fellow Dr. Daemin Park of the  Korea Press Foundation, May 2016 - Dec. 2016
-#   descr: Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well founded news articles with official quotes and sources.
+- name: News Big Data - User Participatory Services
+  dates: Project with senior research fellow Dr. Daemin Park of the  Korea Press Foundation, May 2016 - Dec. 2016
+  descr: Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well founded news articles with official quotes and sources.
+
+
+# - name: leonids
+#   descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+#   image: pong.png
+#   github: https://github.com/renyuanz/leonids
