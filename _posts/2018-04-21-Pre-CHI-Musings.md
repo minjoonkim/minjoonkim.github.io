@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-CHI Musings
-excerpt: "Here I am at Montréal, waiting for my first CHI experience. I am somewhat jetlagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)"
+excerpt: "Here I am at Montréal, waiting for my first CHI experience.\nI am somewhat jet-lagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)"
 modified: 2018-04-21
 tags: [CHI, Montreal, Wandering]
 comments: true
