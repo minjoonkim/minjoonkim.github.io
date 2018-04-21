@@ -16,10 +16,10 @@ I will be doing this for each conference that I attend. It will be structured in
 *Current Weather: Sunny, 13˚C*  
 *Current mood: Tired. Sleepy... Jet-lag's got me pretty good*
 
-## What do you hope to gain by attending this conference?
+### What do you hope to gain by attending this conference?
 As this is my first CHI conference, I want to, first of all, get a taste of what HCI and UX researchers focus in this venue. I have submitted to CHI before and had my paper rejected. While I have read many CHI papers, I have a feeling that I still don't "get" the conference atmosphere yet. I believe actually attending the conference, and not just getting "the vibes" from accepted papers, would benefit me immensely. As a future-submitter, I hope that I would be able to find a good overlap between my research interests and the conference themes. I also want to find some tangible ideas and notions that I can directly implement into my studies. It can be in the form of seed papers that I can base my research off of, or it can be some methodology that I can use when conducting research. All in all, I am looking forward to attending my first CHI conference.
 
-## Goals and Objectives
+### Goals and Objectives
 We're gonna start small here... Baby steps!
 
 * Goal 1: Ask a question to presenters -- Get over my shyness, and ask questions to presenters.
