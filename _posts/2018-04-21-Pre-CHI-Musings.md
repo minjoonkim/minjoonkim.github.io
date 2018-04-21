@@ -7,17 +7,18 @@ tags: [CHI, Montreal, Wandering]
 comments: true
 pinned: false
 image:
+  feature: https://d.pr/i/itixF0
 ---
 
 Here I am at Montréal, waiting for my first CHI experience. I am somewhat jetlagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)
 
-*Date:* Apr 21, 2018  
-*Writing from:* Starbucks right across from my Airbnb flat  
-*Current mood:* Eh. Could be better (I have mixed feelings towards the flat). Excited. Relief (A good chunk of time for myself; the Montréal air is pretty damn nice — curse you, Seoul’s micro-dust pollution; A somewhat forced break from my work back home, but a break’s a break! Can’t be picky)  
+*Writing from: Starbucks right across from my Airbnb flat*  
+*Weather: Sunny and Clear, 3˚C*  
+*Current mood: Eh. Could be better (I have mixed feelings towards the flat). Excited. Relief (A good chunk of time for myself; the Montréal air is pretty damn nice — curse you, Seoul’s micro-dust pollution; A somewhat forced break from my work back home, but a break’s a break! Can’t be picky)*  
 
 Things to do today — will come back to check my progress:
-* [ ] Register (early) for CHI at the conference venue, Palais des Congrès
-* [ ] Find myself a pre-paid SIM
+* Register (early) for CHI at the conference venue, Palais des Congrès
+* Find myself a pre-paid SIM
 * [ ] Buy a public transportation card (A thing I collect when travelling abroad)
 * [ ] Hit up Schwartz’s Deli
 * [ ] Walk around! Wander
