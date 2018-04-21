@@ -7,7 +7,7 @@ tags: [CHI, Montreal, Wandering]
 comments: true
 pinned: false
 image:
-  feature: https://d.pr/i/itixF0+
+  feature: https://d.pr/i/fDVZXr+
 ---
 
 Here I am at Montréal, waiting for my first CHI experience. I am somewhat jetlagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)
@@ -19,11 +19,11 @@ Here I am at Montréal, waiting for my first CHI experience. I am somewhat jetla
 Things to do today — will come back to check my progress:
 * Register (early) for CHI at the conference venue, Palais des Congrès
 * Find myself a pre-paid SIM
-* [ ] Buy a public transportation card (A thing I collect when travelling abroad)
-* [ ] Hit up Schwartz’s Deli
-* [ ] Walk around! Wander
-* [ ] Try to speak some french?
-* [ ] Check out the apple store (eh, could do at a later time. low priority)
+* Buy a public transportation card (A thing I collect when travelling abroad)
+* Hit up Schwartz’s Deli
+* Walk around! Wander
+* Try to speak some french?
+* Check out the apple store (eh, could do at a later time. low priority)
 
 Anyways. CHI.
 After receiving an email from my colleage about writing a “conference notebook”, I have decided to make one for my first-ever CHI. I will post my conference notebook as a separate post, and will post one for each day of the conference as well!
