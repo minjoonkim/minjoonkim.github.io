@@ -2,7 +2,7 @@
 layout: post
 title: Pre-CHI Musings
 excerpt: "Here I am at Montréal, waiting for my first CHI experience. I am somewhat jet-lagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)"
-modified: 2018-04-21
+date: 2018-04-21 09:48
 tags: [CHI, Montreal, Conference, Travels]
 comments: true
 pinned: false
@@ -25,7 +25,7 @@ Things to do today — will come back to check my progress:
 * Try to speak some french? ✅
 * Check out the apple store (eh, could do at a later time. low priority) ✅
 
--- 6 out of 7. 
+-- 6 out of 7.
 
 Anyways. CHI.
 After receiving an email from my colleague about writing a “conference notebook”, I have decided to make one for my first-ever CHI. I will post my conference notebook as a separate post, and will post one for each day of the conference as well!

@@ -2,7 +2,7 @@
 layout: post
 title: The Conference Notebook — CHI 2018 Edition / Part 1: Before the Conference
 excerpt: "I will be doing this for each conference that I attend. It will be structured in (mostly) 3 parts: before the conference, during the conference (possibly more than one during-the-conference posting), and after the conference. I hope that  will get better at writing these and applying whatever I learn to my own studies and research! Here's the first one, CHI 2018."
-modified: 2018-04-21
+date: 2018-04-21 17:23
 tags: [CHI, Conference]
 comments: true
 pinned: false
