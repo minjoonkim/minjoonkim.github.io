@@ -7,7 +7,7 @@ tags: [CHI, Montreal, Wandering]
 comments: true
 pinned: false
 image:
-  feature: https://d.pr/i/fDVZXr+
+  feature: https://d.pr/i/eu9O61+
 ---
 
 Here I am at Montréal, waiting for my first CHI experience. I am somewhat jetlagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)
