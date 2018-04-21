@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Pre-CHI Musings
+title: "Pre-CHI Musings"
 excerpt: "Here I am at Montréal, waiting for my first CHI experience. I am somewhat jet-lagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)"
 date: 2018-04-21 09:48
+categories: [conference notebook]
 tags: [CHI, Montreal, Conference, Travels]
 comments: true
 pinned: false
