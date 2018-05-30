@@ -8,7 +8,7 @@ tags: [CHI, Montreal, Conference, Travels]
 comments: true
 pinned: false
 image:
-  feature: https://d.pr/i/HLm2hC+
+  feature: https://d.pr/HySjTM+
 ---
 
 Here I am at Montréal, waiting for my first CHI experience. I am somewhat jet-lagged and have a headache from not drinking my morning coffee, but it is being cured as we speak! mmm ☕️ (flat whites are the best)
