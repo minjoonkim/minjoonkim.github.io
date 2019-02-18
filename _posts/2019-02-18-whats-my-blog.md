@@ -14,10 +14,10 @@ So. This is what this blog will cover from now on. I will post an evaluation of 
 
 Well, I know it's late but here's to 2019. If anybody's curious, these are what I want to achieve by the end of the year, personal and professional goals alike:
 
-- [ ] Submit, and subsequently get published on two separate research papers; one in the spring, the other in the fall
-- [ ] Get my graduation path ready
-- [ ] Evaluate myself based on the HCI group recommendation guidelines, and score a solid 4 across the board.
-- [ ] Fix my "apathy" as noted by my advisor 🤔
-- [ ] Shave 10kg's off my fat body
-- [ ] Get selected for Team Korea 🇰🇷
-- [ ] Win club nationals
+-[ ] Submit, and subsequently get published on two separate research papers; one in the spring, the other in the fall
+-[ ] Get my graduation path ready
+-[ ] Evaluate myself based on the HCI group recommendation guidelines, and score a solid 4 across the board.
+-[ ] Fix my "apathy" as noted by my advisor 🤔
+-[ ] Shave 10kg's off my fat body
+-[ ] Get selected for Team Korea 🇰🇷
+-[ ] Win club nationals
