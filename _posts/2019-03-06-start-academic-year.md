@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Croaking, and the "Sweet-and-Salty"
+title: Croaking, and the 'Sweet-and-Salty'
 excerpt: "Here's to a successful year, filled with surprises and success and… various mistakes that will help me grow. Also I have seemed to find a new "work mentality" that has helped me to focus and become more productive. Hopefully this new attitude change will stick."
 categories: [deals and promises]
 comments: true
