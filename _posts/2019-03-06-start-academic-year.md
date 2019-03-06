@@ -20,11 +20,9 @@ This year, I got some help by a couple serendipitous events have made something 
 
 and honestly, I think it has been working for me. I believe it subconciously makes me put more effort, or give full effort to whatever task I'm doing now. Even if this is a placebo I'd still like to think that it makes me a more active and engaged person. 
 
-The second is this this random tidbit that I came across about how a person can eat more than they are capable of if they alternate between sweet and salty foods
+The second is this this random tidbit that I came across about how a person can eat more than they are capable of if they alternate between sweet and salty foods [^1]
 
-[^1]: http://imnews.imbc.com/n_newssas/n_story/n_story/4151850_17081.html
-
-.
+[^1]: http://imnews.imbc.com/n_newssas/n_story/n_story/4151850_17081.html.
 
 I started wondering, and found myself applying this concept to work. The problem with me, and probably for a lot of people is the horrible work efficiency. We slack off way too much, and it doesn't help that we have too many distractions like the internet, our phones, etc. Also, I don't think nobody can be engaged 100% at everything they do. People need breaks. But, if we alternate between… let's say mentally intriguing tasks and repetitive and/or mundane tasks, would this help improve our focus? It seems to be helping me at least, and I'm willing to try this out for an extended period of time.
 
