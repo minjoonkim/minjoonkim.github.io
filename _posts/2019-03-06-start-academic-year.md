@@ -22,9 +22,11 @@ and honestly, I think it has been working for me. I believe it subconciously mak
 
 The second is this this random tidbit that I came across about how a person can eat more than they are capable of if they alternate between sweet and salty foods
 
-[1]: http://imnews.imbc.com/n_newssas/n_story/n_story/4151850_17081.html	"[엠빅뉴스] 멈출 수 없는 단짠단짠, 왜 그럴까요?"
+[^1]: http://imnews.imbc.com/n_newssas/n_story/n_story/4151850_17081.html
 
-. I started wondering, and found myself applying this concept to work. The problem with me, and probably for a lot of people is the horrible work efficiency. We slack off way too much, and it doesn't help that we have too many distractions like the internet, our phones, etc. Also, I don't think nobody can be engaged 100% at everything they do. People need breaks. But, if we alternate between… let's say mentally intriguing tasks and repetitive and/or mundane tasks, would this help improve our focus? It seems to be helping me at least, and I'm willing to try this out for an extended period of time.
+.
+
+I started wondering, and found myself applying this concept to work. The problem with me, and probably for a lot of people is the horrible work efficiency. We slack off way too much, and it doesn't help that we have too many distractions like the internet, our phones, etc. Also, I don't think nobody can be engaged 100% at everything they do. People need breaks. But, if we alternate between… let's say mentally intriguing tasks and repetitive and/or mundane tasks, would this help improve our focus? It seems to be helping me at least, and I'm willing to try this out for an extended period of time.
 
 I'm just hoping this won't end on a whimper like many new year resolutions. And on that note, here is my list of academic new year resolutions. I know it's late but here's to 2019. These are what I want to achieve by the end of the year, both personal and professional:
 
