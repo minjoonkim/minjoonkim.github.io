@@ -160,7 +160,7 @@ df.to_csv('jekyll.csv')
 긁은 데이터를 `pandas dataframe` 으로 넣는 작업이다.  
 
 1. 크롤링한 제목은 `titles` 에, 실제 리뷰 텍스트는 `reviews `에 넣는 작업을 거치고, 
-2. `Title` 이라는 column에 제목을, `Text `라는 column에 리뷰를 넣는다.
+2. `Title` 이라는 column에 제목을, `Text` 라는 column에 리뷰를 넣는다.
 3. 데이터 클렌징 작업. 줄바꿈 되어있는 부분을 한 줄로 정리해준다.
 4. `jekyll.csv` 이라는 이름의 csv 파일로 저장한다.
 
