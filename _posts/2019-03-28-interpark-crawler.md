@@ -71,7 +71,7 @@ browser.get(url)
 ![리뷰를 보기위한 버튼 클릭](https://d.pr/i/0bjAY6+)
 
 '관람후기'의 `id = "tabPostInfo"` , `onclick = tabControl03()` 부분을 주목하자.  
-여기서 우리는 `selenium`을 통해 `tabPostInfo`를 찾고, 클릭을 시뮬레이션 한다:
+여기서 우리는 `selenium` 을 통해 `tabPostInfo` 를 찾고, 클릭을 시뮬레이션 한다:
 
 ```
 element = browser.find_element_by_id("tabPostInfo")
