@@ -170,11 +170,11 @@ df.to_csv('jekyll.csv')
 
 필자는 일단 이 방식으로 '지킬앤하이드' 공연의 리뷰를 2019년 3월 26일 기준 7,653개의 리뷰를 성공적으로 크롤링하였다. 다음 작업은 한번 TF-IDF 를 돌려보는 것이다. 이 뮤지컬을 본 사람들이 공연의 어떤 부분에 가장 큰 만족도를 느끼는지, 어떤 요소를 집중적으로 평가하는지 볼 수 있으면 한다.
 
+질문이나 지적 등은 언제든지 환영입니다 (최대한 잘 해볼게요)
 
 
----
 
-### References
+## 7. References
 
 1. <https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/>
 2. <https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python>
