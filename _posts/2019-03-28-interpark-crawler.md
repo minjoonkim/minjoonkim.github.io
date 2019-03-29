@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인터파크 공연 리뷰(관람후기) 크롤링 시도&#58; 파이썬(beautiful soup) + 셀레니움
+title: 인터파크 공연 리뷰(관람후기) 크롤링&#58; 파이썬(beautiful soup) + 셀레니움
 excerpt: "최근 연구실 프로젝트를 진행하면서 인터파크에 있는 공연 리뷰를 크롤링해야하는 일이 있었다. 검색을 잘못한건지, 내가 필요로 했던 솔루션을 찾지 못해서 헤매다가 직접 코딩한 부분을 정리해보고자 한다. 여러 공연 리뷰 데이터를 긁는데는 성공했으나 케바케로 완벽히(?) 안되는 경향이 있다. 크롤링이 완벽하게 되지는 않지만, 일단 첫번째 버전을 공유하는 차원에서 포스트를 작성한다"
 categories: [code, crawling]
 comments: true
@@ -63,7 +63,7 @@ browser.get(url)
 이러면 크롤링이 조금 짜증나는… 경우가 될 수 있을것 같다.  
 (특히 나는 코딩 고수가 아니니까… 쉬운길로 가는걸로 한다)
 
-하지만 모바일 페이지는 다르다. [모바일 페이지](http://mticket.interpark.com/Goods/GoodsInfo/info?GoodsCode=18011275&app_tapbar_state=fix#GoodsTabArea')는 infinite scroll 방식으로 리뷰가 늘어난다. (스크롤을 페이지 끝까지 진행하면 다음 리뷰들이 로딩되어 나온다). 
+하지만 모바일 페이지는 다르다. [모바일 페이지](http://mticket.interpark.com/Goods/GoodsInfo/info?GoodsCode=18011275&app_tapbar_state=fix#GoodsTabArea')는 infinite scroll 방식으로 리뷰가 늘어난다. (스크롤을 페이지 끝까지 진행하면 다음 리뷰들이 로딩되어 나온다).
 
 우리는 여기서 `selenium` 을 이용하여 '관람후기' 부분을 클릭해야한다. 그래야 웹페이지에 공연 리뷰들이 열리기 때문이다.  
 `selenium` 을 이용하여 클릭을 시뮬레이션을 해야하기에, 개발자툴을 열고  `Inspect Element` 를 한다.
@@ -75,14 +75,14 @@ browser.get(url)
 
 ```
 element = browser.find_element_by_id("tabPostInfo")
-browser.execute_script("tabControl03()", element) 
+browser.execute_script("tabControl03()", element)
 ```
 
 
 
 ## 3. 스크롤 시뮬레이션 하기
 
-우리는 페이지를 열고, 클릭해야할 버튼을 찾았고, 클릭까지해서 리뷰들이 나오게 만들었다. 이제 모든 리뷰들이 나올수 있도록 스크롤을 해야한다: 
+우리는 페이지를 열고, 클릭해야할 버튼을 찾았고, 클릭까지해서 리뷰들이 나오게 만들었다. 이제 모든 리뷰들이 나올수 있도록 스크롤을 해야한다:
 
 ```python
 # Get scroll height
@@ -159,7 +159,7 @@ df.to_csv('jekyll.csv')
 
 긁은 데이터를 `pandas dataframe` 으로 넣는 작업이다.  
 
-1. 크롤링한 제목은 `titles` 에, 실제 리뷰 텍스트는 `reviews `에 넣는 작업을 거치고, 
+1. 크롤링한 제목은 `titles` 에, 실제 리뷰 텍스트는 `reviews `에 넣는 작업을 거치고,
 2. `Title` 이라는 column에 제목을, `Text` 라는 column에 리뷰를 넣는다.
 3. 데이터 클렌징 작업. 줄바꿈 되어있는 부분을 한 줄로 정리해준다.
 4. `jekyll.csv` 이라는 이름의 csv 파일로 저장한다.
@@ -179,8 +179,3 @@ df.to_csv('jekyll.csv')
 1. <https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/>
 2. <https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python>
 3. <https://medium.com/@whj2013123218/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-twitter-%ED%81%AC%EB%A1%A4%EB%A7%81-576f7b098daf>
-
-
-
-
-
