@@ -51,10 +51,7 @@ examples:
 
 meta-models are valuable for identifying the “lens” a researcher is using and other “lenses” not currently emphasized by the researcher or the community at large.
 
-By virtue of their generality, meta-models are typically short on specifics about determinants of behavior that could be used to directly inform the design of technical systems. Also, too often meta-models have too many levels of influence to adequately evaluate. _The use of meta-models in design requires a great deal of conceptual and formative work to translate into pragmatic design guideliness and system features_
-
-
-
+By virtue of their generality, meta-models are typically short on specifics about determinants of behavior that could be used to directly inform the design of technical systems. Also, too often meta-models have too many levels of influence to adequately evaluate. _The use of meta-models in design requires a great deal of conceptual and formative work to translate into pragmatic design guideliness and system features_  
 
 
 #### Conceptual Frameworks
@@ -68,7 +65,8 @@ Conceptual frameworks encompass several commonly used theories, including:
 * Health belief model [^4], and
 * Self-determination theory [^5]
 
-From an HCI perspective, conceptual frameworks provide more specific guidance to the design and implementation of behavior change technologies. But, because of their emphasis on only one or two levels of analysis, conceptual frameworks _have the potential to disregard key factors that may be influencing a behavior_
+From an HCI perspective, conceptual frameworks provide more specific guidance to the design and implementation of behavior change technologies. But, because of their emphasis on only one or two levels of analysis, conceptual frameworks _have the potential to disregard key factors that may be influencing a behavior_  
+
 
 
 #### Constructs
