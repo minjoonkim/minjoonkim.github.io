@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Mind the Theoretical Gap&#58; HCI 연구에서 쓰이는 Behavioral Change Theory 정리 - Part 1
-excerpt: "관심 연구주제에 대한 1차 정리. 내 관심 주제에 대한 HCI를 통한 behavior change. HCI/UX 분야에서 자주 등장하는 behavioral change theory 등을 정리해보고자 하다가 이 논문을 발견, 읽는 중이다. 좋은 overview 논문인듯 하다. 논문 자체가 세부적인 예시를 들어가며 정리된 논문이라 이 논문 + 관련 논문을 보려면 꽤나 많은 논문들을 봐야할것으로 예상된다. 이 부분을 필두로 여러 포스팅에 걸쳐서 정리를 한번 해보고자 한다."
+excerpt: "관심 연구주제에 대한 1차 정리. 내 관심 주제에 대한 HCI를 통한 behavior change 이다. HCI/UX 분야에서 자주 등장하는 behavioral change theory 등을 정리해보고자 하다가 이 논문을 발견, 읽는 중이다. 좋은 overview 논문인듯 하다. 논문 자체가 세부적인 예시를 들어가며 정리된 논문이라 이 논문 + 관련 논문을 보려면 꽤나 많은 논문들을 봐야할것으로 예상된다. 이 부분을 필두로 여러 포스팅에 걸쳐서 정리를 한번 해보고자 한다."
 image:
   feature: https://d.pr/i/JQzDrk+
 categories: [research, behavior change, hci]
 comments: true
 ---
 
-# Mind the Theoretical Gap: Interpreting, Using, and Developing Behavioral Theory in HCI Research /CHI 2013
+**논문제목: Mind the Theoretical Gap: Interpreting, Using, and Developing Behavioral Theory in HCI Research /CHI 2013**
+
 _Hekler, Klasnja, Froehlich, et. al._
 
 관심 연구주제에 대한 1차 정리. 내 관심 주제에 대한 HCI를 통한 behavior change. HCI/UX 분야에서 자주 등장하는 behavioral change theory 등을 정리해보고자 하다가 이 논문을 발견, 읽는 중이다. 좋은 overview 논문인듯 하다. 논문 자체가 세부적인 예시를 들어가며 정리된 논문이라 이 논문 + 관련 논문을 보려면 꽤나 많은 논문들을 봐야할것으로 예상된다. 이 부분을 필두로 여러 포스팅에 걸쳐서 정리를 한번 해보고자 한다.
