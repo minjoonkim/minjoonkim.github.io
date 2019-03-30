@@ -80,25 +80,23 @@ Social cognitive theory defines the notion of self-efficacy (a person’s assess
 
 In social cognitive theory, self-efficacy (construct), along with other constructs such as outcome expectancies are key determinant of behavior.
 
-A common practice in the development of behavior change interventions is to selectively use constructs from one or more theories. _Although common, this practice makes it difficult to evaluate the utility of the entire conceptual framework as the entire framework was not tested._ This can lead to methodological flaws in interpreting the validity of behavioral theories.
+A common practice in the development of behavior change interventions is to selectively use constructs from one or more theories. _Although common, this practice makes it difficult to evaluate the utility of the entire conceptual framework as the entire framework was not tested._ This can lead to methodological flaws in interpreting the validity of behavioral theories.   
+
 
 
 #### Empirical Findings
 
 : previously developed theories are insufficient to guide HCI research in some cases. In such cases, additional empirical work — often in the form of ethnographic and other qualitative approaches — can generate knowledge necessary to establish a starting point for design.
 
-Empirical findings, by virtue of being observed in a given context, must be abstracted in some way to create generalized knowledge. Although it is tempting to directly generalize specific findings from empirical work, _such generalizations should be tempered by factors such as the target participant group, study length and size, and other relevant contexts._
+Empirical findings, by virtue of being observed in a given context, must be abstracted in some way to create generalized knowledge. Although it is tempting to directly generalize specific findings from empirical work, _such generalizations should be tempered by factors such as the target participant group, study length and size, and other relevant contexts._  
 
 
+***다음 포스팅:***  
+*Three broad uses of behavioral theory in HCI*
 
-
-
-다음 포스팅:  
-Three broad uses of behavioral theory in HCI
-
-1. to inform the design of technical systems
-2. to guide evaluation strategies
-3. to define target users
+1. *to inform the design of technical systems*
+2. *to guide evaluation strategies*
+3. *to define target users*
 
 ---
 [^1]: Prochaska, J.O. and DiClemente, C.C. (1983). Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol 51, 390–395. 
