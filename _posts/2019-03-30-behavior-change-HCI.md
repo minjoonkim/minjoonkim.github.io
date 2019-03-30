@@ -8,9 +8,8 @@ categories: [research, behavior change, hci]
 comments: true
 ---
 
-**논문제목: Mind the Theoretical Gap: Interpreting, Using, and Developing Behavioral Theory in HCI Research /CHI 2013**
-
-_Hekler, Klasnja, Froehlich, et. al._
+**논문제목: Mind the Theoretical Gap: Interpreting, Using, and Developing Behavioral Theory in HCI Research /CHI 2013**  
+저자: _Hekler, Klasnja, Froehlich, et. al._
 
 관심 연구주제에 대한 1차 정리. 내 관심 주제에 대한 HCI를 통한 behavior change. HCI/UX 분야에서 자주 등장하는 behavioral change theory 등을 정리해보고자 하다가 이 논문을 발견, 읽는 중이다. 좋은 overview 논문인듯 하다. 논문 자체가 세부적인 예시를 들어가며 정리된 논문이라 이 논문 + 관련 논문을 보려면 꽤나 많은 논문들을 봐야할것으로 예상된다. 이 부분을 필두로 여러 포스팅에 걸쳐서 정리를 한번 해보고자 한다.
 
@@ -56,28 +55,30 @@ By virtue of their generality, meta-models are typically short on specifics abou
 
 
 
+
+
 #### Conceptual Frameworks
 
 : describe relationships among the fundamental building blocks of a behavioral theory, constructs, and provide a more specific account of how constructs are inter-related. 
 
 Conceptual frameworks encompass several commonly used theories, including: 
-* **Transtheoretical model**[^1],
+* **Transtheoretical model** [^1],
 
   [^1]: Prochaska, J.O. and DiClemente, C.C. (1983). Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol 51, 390–395. 
 
-* **Self-efficacy theory**[^2],
+* **Self-efficacy theory** [^2],
 
   [^2]: Bandura, A.(1986). Social foundations of thought and action. Prentice Hall, Englewood Cliffs, NJ.
 
-* **Theory of planned behavior**[^3],
+* **Theory of planned behavior** [^3],
 
   [^3]: Ajzen, I. (2002). Perceived Behavioral Control, Self‐Efficacy, Locus of Control, and the Theory of Planned Behavior. J Appl Soc Psych, 32, 665-683
 
-* **Health belief model**[^4], and
+* **Health belief model** [^4], and
 
   [^4]: Becker, M. (1974). The health belief model and personal health behavior, J Healt Soc Behav, 18, 348-366.
 
-* **Self-determination theory**[^5]
+* **Self-determination theory** [^5]
 
   [^5]: Deci, E.L. and Ryan, R.M. (1985) Intrinsic motivation and self-determination in human behavior. Plenum, New York, NY.
 
@@ -87,17 +88,21 @@ From an HCI perspective, conceptual frameworks provide more specific guidance to
 
 
 
+
+
 #### Constructs
 
 : the basic determinants or mechanisms that a theory postulates to influence behavior
 
 examples: 
-Social cognitive theory defines the notion of self-efficacy (a person’s assessment of his/her ability to perform certain behaviors in a particular context[^6])
+Social cognitive theory defines the notion of self-efficacy (a person’s assessment of his/her ability to perform certain behaviors in a particular context [^6])
 
 [^6]: Bandura, A. (1997). Self-Efficacy-The Exercise of Control. Worth Publishers, Inc. New York, NY.
 In social cognitive theory, self-efficacy (construct), along with other constructs such as outcome expectancies are key determinant of behavior.
 
 A common practice in the development of behavior change interventions is to selectively use constructs from one or more theories. _Although common, this practice makes it difficult to evaluate the utility of the entire conceptual framework as the entire framework was not tested._ This can lead to methodological flaws in interpreting the validity of behavioral theories.
+
+ 
 
 
 
@@ -109,11 +114,15 @@ Empirical findings, by virtue of being observed in a given context, must be abst
 
 
 
-## Uses of Behavioral Theories in HCI
 
+
+다음 포스팅:  
 Three broad uses of behavioral theory in HCI
+
 1. to inform the design of technical systems
 2. to guide evaluation strategies
 3. to define target users
 
 
+
+---
