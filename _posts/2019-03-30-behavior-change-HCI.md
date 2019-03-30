@@ -30,9 +30,9 @@ In HCI, more researchers are increasingly designing technologies to promote beha
 A common definition of behabioral theory proposed by Glanz and Rimer:
 > “...a systematic way of understanding events or situations. It is a set of concepts, definitions, and propositions that explain or predict these events situations by illustrating the relationships between variables.”  
 
-**Constructs:** fundamental components of a behavioral theory
-**Variables:** operational definitions of the constructs, particularly as they are defined in context
-**Design guidelines:** the principles formulated by HCI researchers to make behavioral theory and empirical findings actionable for designing behavior changes technologies
+**Constructs:** fundamental components of a behavioral theory  
+**Variables:** operational definitions of the constructs, particularly as they are defined in context  
+**Design guidelines:** the principles formulated by HCI researchers to make behavioral theory and empirical findings actionable for designing behavior changes technologies  
 **Behavior change technologies:** the broad array of systems and artifacts developed to foster and assist behavior chagne and sustainment
 
 
@@ -40,7 +40,7 @@ A common definition of behabioral theory proposed by Glanz and Rimer:
 ## Forms of Behavioral Theory
 ![](https://d.pr/i/0AWErk+)
 
-### Meta-models
+#### Meta-models
 : organizational structures of multiple levels of influence on individual behavior
 
 examples: 
@@ -55,30 +55,28 @@ By virtue of their generality, meta-models are typically short on specifics abou
 
 
 
-### Conceptual Frameworks
+#### Conceptual Frameworks
 
 : describe relationships among the fundamental building blocks of a behavioral theory, constructs, and provide a more specific account of how constructs are inter-related. 
 
 Conceptual frameworks encompass several commonly used theories, including: 
-* **Transtheoretical model**,
+* **Transtheoretical model**[^1],
 
   [^1]: Prochaska, J.O. and DiClemente, C.C. (1983). Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol 51, 390–395. 
 
-* **Self-efficacy theory**,
+* **Self-efficacy theory**[^2],
 
   [^2]: Bandura, A.(1986). Social foundations of thought and action. Prentice Hall, Englewood Cliffs, NJ.
 
-* **Theory of planned behavior**,
+* **Theory of planned behavior**[^3],
 
   [^3]: Ajzen, I. (2002). Perceived Behavioral Control, Self‐Efficacy, Locus of Control, and the Theory of Planned Behavior. J Appl Soc Psych, 32, 665-683
 
-* **Health belief model**
+* **Health belief model**[^4], and
 
   [^4]: Becker, M. (1974). The health belief model and personal health behavior, J Healt Soc Behav, 18, 348-366.
 
-  , and 
-
-* **Self-determination theory**
+* **Self-determination theory**[^5]
 
   [^5]: Deci, E.L. and Ryan, R.M. (1985) Intrinsic motivation and self-determination in human behavior. Plenum, New York, NY.
 
@@ -88,23 +86,21 @@ From an HCI perspective, conceptual frameworks provide more specific guidance to
 
 
 
-### Constructs
+#### Constructs
 
 : the basic determinants or mechanisms that a theory postulates to influence behavior
 
 examples: 
-Social cognitive theory defines the notion of self-efficacy (a person’s assessment of his/her ability to perform certain behaviors in a particular context
+Social cognitive theory defines the notion of self-efficacy (a person’s assessment of his/her ability to perform certain behaviors in a particular context[^6])
 
 [^6]: Bandura, A. (1997). Self-Efficacy-The Exercise of Control. Worth Publishers, Inc. New York, NY.
-
-)
 In social cognitive theory, self-efficacy (construct), along with other constructs such as outcome expectancies are key determinant of behavior.
 
 A common practice in the development of behavior change interventions is to selectively use constructs from one or more theories. _Although common, this practice makes it difficult to evaluate the utility of the entire conceptual framework as the entire framework was not tested._ This can lead to methodological flaws in interpreting the validity of behavioral theories.
 
 
 
-### Empirical Findings
+#### Empirical Findings
 
 : previously developed theories are insufficient to guide HCI research in some cases. In such cases, additional empirical work — often in the form of ethnographic and other qualitative approaches — can generate knowledge necessary to establish a starting point for design.
 
