@@ -22,6 +22,7 @@ permalink:         /articles/:year-:month/:title
 
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap
 
 kramdown:
   auto_ids: true
