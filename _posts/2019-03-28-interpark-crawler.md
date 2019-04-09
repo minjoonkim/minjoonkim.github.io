@@ -25,7 +25,7 @@ comments: true
 ## 1. Selenium을 이용한 웹사이트 브라우징
 
 필자는 크롬을 사용하여 크롤링을 해보고자 한다. (위에 크롬드라이버 설치하세요)  
-그리고 `selenium`이라는 툴을 사용해서 웹사이트를 열어 제어하고, `beautiful soup` 으로 크롤링을 한다.
+그리고 `selenium`이라는 툴을 사용해서 웹사이트를 열어 제어하고, `beautifulsoup` 으로 크롤링을 한다.
 
 ```python
 from bs4 import BeautifulSoup
@@ -106,14 +106,14 @@ while True:
 
 
 
-## 4. Beautiful Soup을 이용하여 리뷰 크롤링하기
+## 4. BeautifulSoup을 이용하여 리뷰 크롤링하기
 
 이제 스크롤까지 시뮬레이션을 하고, 모든 리뷰의 로딩을 마쳤다. 다음 스텝은 리뷰들의 제목과 텍스트를 뽑는 일이다.  
 리뷰를 하나 열어보면, 리뷰 제목, 그리고 리뷰 텍스트의 구조를 갖고 있는것을 확인 할 수 있다. 우리는 제목과 리뷰 텍스트의 `class` 이름을 알아야한다.
 
 ![리뷰를 펼쳐보자](https://d.pr/i/N5mkoO+)
 
-제목의 `class` 이름은 `userBoardTitle`, 실제 텍스트의 `class` 이름은 `boardContentTxt` 인걸 볼 수 있다. 이제 우리는 `beautiful soup` 을 이용해서 이 부분을 크롤링한다:
+제목의 `class` 이름은 `userBoardTitle`, 실제 텍스트의 `class` 이름은 `boardContentTxt` 인걸 볼 수 있다. 이제 우리는 `beautifulsoup` 을 이용해서 이 부분을 크롤링한다:
 
 ```python
 html = browser.page_source
