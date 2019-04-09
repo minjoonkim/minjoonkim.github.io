@@ -15,11 +15,10 @@ comments: true
 필자는 맥, 그리고 파이썬3 에서 코딩하는지라 맥 기준으로 작성
 
 1. Python 3
-  1. beautiful soup: `pip3 install bs4`
+  1. beautifulsoup: `pip3 install bs4`
   2. pandas: `pip3 install pandas`
 2. Selenium: `pip3 install -U selenium`
-3. Pandas: `pip3 install pandas`
-4. [Chrome Driver](http://chromedriver.chromium.org): 링크를 방문해서 알맞은 드라이버 다운로드. 같은 폴더에 넣거나 `/usr/local/bin` 에 넣거나 편하신대로 하면 될듯 합니다.
+3. [Chrome Driver](http://chromedriver.chromium.org): 링크를 방문해서 알맞은 드라이버 다운로드. 같은 폴더에 넣거나 `/usr/local/bin` 에 넣거나 편하신대로 하면 될듯 합니다.
 
 
 
