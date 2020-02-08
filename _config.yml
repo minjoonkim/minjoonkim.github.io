@@ -7,7 +7,7 @@ title: Minjoon Kim
 email: minjoon.kim89@gmail.com
 description: Minjoon's blog.
 url: https://minjoon.kim # the base hostname & protocol for your site
-keywords: ["HCI/UX", "Behavior Change", "Ultimate"]
+keywords: ["HCI/UX", "Preference Elicitation", "Ultimate"]
 
 #
 ###################################
@@ -40,10 +40,10 @@ owner:
   name: Minjoon
   avatar: avatar.jpg
   job: "Ph.D Student at Seoul National University"
-  bio: "#ux #datatwin #programming #ultimate"
+  bio: "#ux #pref_elicitation #data #ultimate"
   email: minjoon.kim89@gmail.com
   disqus-shortname: mjblog-3
-  twitter: _minjoon #username
+  twitter: ns9mj #username
   facebook: #username
   google:
     plus: #username
