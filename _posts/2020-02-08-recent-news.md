@@ -3,7 +3,7 @@ layout: post
 title: 📌 Recent News
 excerpt: "2020-02-08 : My most recent work, Utilizing Response Time to Find In-between Ratings within Likes and Dislikes, has been accepted to CHI 2020 in the Late-Breaking Work track! See you all in Hawaii 🏝 🌺 😎"
 categories: [updates]
-comments: true
+comments: false
 ---
 
 #### 🗓 2020-02-08
