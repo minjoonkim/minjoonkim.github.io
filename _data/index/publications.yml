@@ -2,13 +2,17 @@
 #   descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
 #   image: pong.png
 #   github: https://github.com/renyuanz/leonids
+- name: "Utilizing Response Time to Find In-between Ratings within Likes and Dislikes
+  authors: Minjoon Kim, Yoojung Kim, Joongseek Lee
+  descr: to appear in Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)
+
 - name: A Data-driven Approach to Explore Television Viewing in the Household Environment
-  authors: Minjoon Kim, Jinyoung Kim, Sugyo Han, Joongseek Lee (2018)
+  authors: Minjoon Kim, Jinyoung Kim, Sugyo Han, Joongseek Lee
   descr: Proceedings of the 2018 ACM International Conference on Interactive Experiences for TV and Online Video (TVX ’18)
   url: "https://dl.acm.org/citation.cfm?id=3210829"
 
 - name: "Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers in the Dongdae-mun Fashion District"
-  authors: Minjoon Kim, Nuri Na, Joongseek Lee (2017)
+  authors: Minjoon Kim, Nuri Na, Joongseek Lee
   descr: In iConference 2017 Proceedings, Vol. 2 (pp. 43 &ndash; 53)
   url: "https://www.ideals.illinois.edu/handle/2142/98871"
   award: Lee Dirks Award for Best Paper Nomination (top 5 papers)
