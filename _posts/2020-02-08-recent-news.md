@@ -22,5 +22,5 @@ My most recent work, "Utilizing Response Time to Find In-between Ratings within 
 #### 🗓 2020-01-28
 
 비발디파크에서 열리는 2020년 HCI Korea 학회에 참가합니다!  
-KAIST의 이의진 교수님께서 진행하시는 ACM SIGCHI Korea Local Chapter의 워크샵 **"어떻게 CHI 논문을 작성하나?"**에 조교로 돕게 되었습니다. 많이 참여 부탁드립니다!
+KAIST의 이의진 교수님께서 진행하시는 ACM SIGCHI Korea Local Chapter의 워크샵 **"어떻게 CHI 논문을 작성하나?"**에 조교로 참여하게 되었습니다. 많이 참여 부탁드립니다!
 
