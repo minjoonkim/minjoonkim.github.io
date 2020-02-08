@@ -30,7 +30,13 @@
 
 // Post Section
 section.post {
-	margin-bottom: 80px;
+	margin-bottom: 50px;
+}
+
+section.post:first-child {
+  padding: 10px 20px;
+  background: #f2f2f2;
+  margin-bottom: 40px;
 }
 
 // Back home button
