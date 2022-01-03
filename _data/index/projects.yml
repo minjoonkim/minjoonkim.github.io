@@ -1,3 +1,7 @@
+- name: Project "Prehension"
+  det: Lab-led Project with Co-living Space  “ShareOne Sillim”, Sep. 2020 &ndash; Dec. 2020
+  descr: ": Designing, implementing, and deploying a non-intrusive people counter for communal spaces within ShareOne Sillim, a women-only co-living space located in Seoul. The project utilized usage data of the communal spaces to provide real-time crowdedness information via a web app and physical dashboard, accessible in various locations within the co-living space. The service also utilized machine learning to predict hourly crowdedness levels of each communal space for each day of the week."
+
 - name: Culture Concierge & Preference Collection
   det: Project with the Korea Creative Contents Agency, May. 2018 &ndash; Dec. 2020
   descr: ": Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events."

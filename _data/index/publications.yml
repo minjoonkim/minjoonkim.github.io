@@ -2,13 +2,24 @@
 #   descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
 #   image: pong.png
 #   github: https://github.com/renyuanz/leonids
+- name: "“Knock Knock, Here Is an Answer from Next Door”: Designing a Knowledge Sharing Chatbot to Connect Residents"
+  authors: Sang Ah Park, Yoon Young Lee, Soobin Cho, Minjoon Kim, Joongseek Lee
+  descr: Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '21)
+  url: "https://dl.acm.org/doi/abs/10.1145/3334480.3383049"
+
 - name: "Utilizing Response Time to Find In-between Ratings within Likes and Dislikes"
   authors: Minjoon Kim, Yoojung Kim, Joongseek Lee
-  descr: to appear in Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)
+  descr: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)
+  url: "https://dl.acm.org/doi/abs/10.1145/3334480.3383049"
+
+- name: "Can a Machine Tend to Teenagers' Emotional Needs? A Study with Conversational Agents"
+  authors: Junhan Kim, Yoojung Kim, Byungjoon Kim, Sukyung Yun, Minjoon Kim, Joongseek Lee
+  descr: Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18)
+  url: "https://dl.acm.org/doi/abs/10.1145/3170427.3188548"
 
 - name: "A Data-driven Approach to Explore Television Viewing in the Household Environment"
   authors: Minjoon Kim, Jinyoung Kim, Sugyo Han, Joongseek Lee
-  descr: Proceedings of the 2018 ACM International Conference on Interactive Experiences for TV and Online Video (TVX ’18)
+  descr: Proceedings of the 2018 ACM International Conference on Interactive Experiences for TV and Online Video (TVX '18)
   url: "https://dl.acm.org/citation.cfm?id=3210829"
 
 - name: "Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers in the Dongdae-mun Fashion District"
