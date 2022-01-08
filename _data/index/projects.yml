@@ -1,15 +1,15 @@
 - name: Project "Prehension"
-  det: Lab-led Project with Co-living Space  “ShareOne Sillim”, Sep. 2020 &ndash; Dec. 2020
+  det: Lab-led Project with Co-living Space  “ShareOne Sillim”; Technical Part Lead; Sep. 2020 &ndash; Dec. 2020
   descr: ": Designing, implementing, and deploying a non-intrusive people counter for communal spaces within ShareOne Sillim, a women-only co-living space located in Seoul. The project utilized usage data of the communal spaces to provide real-time crowdedness information via a web app and physical dashboard, accessible in various locations within the co-living space. The service also utilized machine learning to predict hourly crowdedness levels of each communal space for each day of the week."
 
 - name: Culture Concierge & Preference Collection
-  det: Project with the Korea Creative Contents Agency, May. 2018 &ndash; Dec. 2020
-  descr: ": Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events."
+  det: Project with the Korea Creative Contents Agency; Project Manager; May. 2018 &ndash; Dec. 2020
+  descr: ": Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. The project included user research on cultural event consumption, smart speaker (agent) usage. Parallel to the user research, individual preference collection on cultural event types were conducted to supplement event recommendation to users. Successful deployment on Google Actions under the name of “ClassicMate”, a classical music curation service with event recommendations."
 
 - name: Television Audio Experience
-  det: Project with Samsung Electronics, Mar. 2017 &ndash; Dec. 2017
-  descr: ": A data-driven investigation focused on user behaviors and satisfaction points during television watching. Data collected from the TV, remote controller, and bluetooth trackers are supplemented by qualitative user data collected via event-timely chatbots."
+  det: Project with Samsung Electronics; Project Manager; Mar. 2017 &ndash; Dec. 2017
+  descr: ": Mixed methods user research on investigating user behavior in household television watching. Identifying points of interests in user behaviors and identifying user satisfaction while watching television. Collecting, processing, and analyzing various log data from the TV, remote controller, bluetooth trackers, and deploying chatbots for in-situ contextual information collection. Conducting pre-/post-study user interviews. Creating design guidelines for product improvement."
 
 - name: News Big Data - User Participatory Services
-  det: Project with the Korea Press Foundation, May 2016 &ndash; Dec. 2016
+  det: Project with the Korea Press Foundation; Project Member; May 2016 &ndash; Dec. 2016
   descr: ": Analysis of news quotes from press releases, understanding how users obtain news and information, and suggesting a new interface and service where users can easily participate in writing well-founded news articles with official quotes and sources."
