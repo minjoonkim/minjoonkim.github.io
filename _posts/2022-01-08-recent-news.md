@@ -49,7 +49,7 @@ Check out our lab's finished product of "[ClassicMate](https://classic-mate.gith
 
 Due to COVID, the 2022 CHI Conference is cancelled ☹️  
 Bummed that I won't be going to Hawaii + no virtual conference either.  
-I'll be writing up a blog post about my LBW here.
+I'll be writing up a blog post about my LBW here. 
 
 ---
 
