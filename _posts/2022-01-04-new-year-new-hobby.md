@@ -14,7 +14,7 @@ Now, we have smartphones that take amazing photos and videos. But the real kille
 
 Why the mini instead of the Pro line-ups if I'm getting into video making? I have decided that with my "hobbyist" level, the normal line-ups of iPhones are just fine. I chose the mini because I wanted a small phone. Yet, it still kicks butt in taking quality videos. I honestly think the Pro line-up of iPhones are now really professional level, and I don't need that excess technology and specs; I can make do with my iPhone 13 mini -- like this video I made:
 
-<iframe width="560" height="315" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/i1muWQazPF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/i1muWQazPF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
