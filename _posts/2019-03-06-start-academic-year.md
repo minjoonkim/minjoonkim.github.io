@@ -2,7 +2,7 @@
 layout: post
 title: Croaking, and the 'Sweet-and-Salty'
 excerpt: "Here's to a successful year, filled with surprises and success and… various mistakes that will help me grow. Also I have seemed to find a new 'work mentality' that has helped me to focus and become more productive. Hopefully this new attitude change will stick."
-categories: [deals and promises]
+categories: [resolutions]
 comments: true
 ---
 
@@ -28,11 +28,10 @@ I'm just hoping this won't end on a whimper like many new year resolutions. And 
 
 #### Resolutions for 2019
 
--[ ] Submit, and subsequently get published on two separate research papers; one in the spring, the other in the fall  
--[ ] Get my graduation path ready  
--[ ] Evaluate myself based on the HCI group recommendation guidelines, and score a solid 4 across the board.  
--[ ] Fix my "apathy" as noted by my advisor 🤔  
--[ ] Shave 10kg's off my fat body  
--[ ] Get selected for Team Korea 🇰🇷  
--[ ] Win club nationals  
--[ ] Maintain a perfect attendance record for a full year.
+-[v] Submit, and subsequently get published on two separate research papers; one in the spring, the other in the fall  
+-[x] Get my graduation path ready  
+-[x] Evaluate myself based on the HCI group recommendation guidelines, and score a solid 4 across the board.  
+-[  ] Shave 10kg's off my fat body  
+-[x] Get selected for Team Korea 🇰🇷  
+-[x] Win club nationals  
+-[x] Maintain a perfect attendance record for a full year.

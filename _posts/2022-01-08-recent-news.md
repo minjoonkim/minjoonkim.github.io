@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📌 Recent News
-excerpt: "I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist. Please let me know of any opportunities, and check out my LinkedIn profile. Thank you 😁"
+excerpt: "I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist. Check out my resume page and LinkedIn profile. Thank you 😁"
 categories: [updates]
 comments: false
 ---
@@ -9,7 +9,7 @@ comments: false
 #### 🗓 2022-01-08
 
 I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist  
-Please let me know of any opportunities, and check out my [LinkedIn profile](https://www.linkedin.com/in/minjoonkim10/). Thank you 😁
+Check out my resume page and [LinkedIn profile](https://www.linkedin.com/in/minjoonkim10/). Thank you 😁
 
 ---
 
