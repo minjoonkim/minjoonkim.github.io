@@ -45,18 +45,11 @@ Check out our lab's finished product of "[ClassicMate](https://classic-mate.gith
 
 ---
 
- #### 🗓 2020-03-26
+#### 🗓 2020-03-26
 
 Due to COVID, the 2022 CHI Conference is cancelled ☹️  
 Bummed that I won't be going to Hawaii + no virtual conference either.  
 I'll be writing up a blog post about my LBW here. 
-
----
-
-#### 🗓 2020-02-28
-
-Currently in self-quarantine due to COVID exposure at lab.  
-Negative result but need to quarantine. 8 days left!
 
 ---
 
