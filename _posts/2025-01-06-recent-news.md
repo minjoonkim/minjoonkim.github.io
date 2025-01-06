@@ -1,15 +1,47 @@
 ---
 layout: post
 title: 📌 Recent News
-excerpt: "I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist. Check out my resume page and LinkedIn profile. Thank you 😁"
+excerpt: "I'm in the middle of moving house."
 categories: [updates]
 comments: false
+---
+#### 🗓 2025-01
+
+Happy New Year! 🎊  
+Also we've got a house now 🏡
+
+---
+
+#### 🗓 2024-06
+
+Welcoming our newest family member 👶
+
+---
+
+#### 🗓 2023-01
+
+We moved to the UK🇬🇧  
+Happy New Year!
+
+---
+
+#### 🗓 2022-11
+
+🤵‍♂️💍👰‍♀️
+
+---
+
+#### 🗓 2022-10-15
+
+I'm joining EMBL-EBI as a UX Researcher!  
+Exciting times. Looking forward to working and growing my career 😄
+
 ---
 
 #### 🗓 2022-01-08
 
-I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist  
-Check out my resume page and [LinkedIn profile](https://www.linkedin.com/in/minjoonkim10/). Thank you 😁
+~~I'm looking for opportunities to work 👨🏻‍💻 as a UX researcher / data scientist~~
+~~Check out my resume page and [LinkedIn profile](https://www.linkedin.com/in/minjoonkim10/). Thank you 😁~~
 
 ---
 
