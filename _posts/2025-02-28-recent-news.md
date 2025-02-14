@@ -6,8 +6,10 @@ categories: [updates]
 comments: false
 ---
 #### 🗓 2025-02
+
 I have my own study now, and a coffee station! 🛋️ ☕
 
+---
 
 #### 🗓 2025-01
 
@@ -85,7 +87,7 @@ Check out our lab's finished product of "[ClassicMate](https://classic-mate.gith
 
 Due to COVID, the 2022 CHI Conference is cancelled ☹️  
 Bummed that I won't be going to Hawaii + no virtual conference either.  
-I'll be writing up a blog post about my LBW here. 
+I'll be writing up a blog post about my LBW here.
 
 ---
 
@@ -106,4 +108,3 @@ My most recent work, "Utilizing Response Time to Find In-between Ratings within 
 
 비발디파크에서 열리는 2020년 HCI Korea 학회에 참가합니다!  
 KAIST의 이의진 교수님께서 진행하시는 ACM SIGCHI Korea Local Chapter의 워크샵 **"어떻게 CHI 논문을 작성하나?"**에 조교로 참여하게 되었습니다. 많이 참여 부탁드립니다!
-
