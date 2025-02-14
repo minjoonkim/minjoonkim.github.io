@@ -1,10 +1,14 @@
 ---
 layout: post
 title: 📌 Recent News
-excerpt: "I'm in the middle of moving house."
+excerpt: "Settling in nicely."
 categories: [updates]
 comments: false
 ---
+#### 🗓 2025-02
+I have my own study now, and a coffee station! 🛋️ ☕
+
+
 #### 🗓 2025-01
 
 Happy New Year! 🎊  
