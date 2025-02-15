@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📌 Recent News
-excerpt: "Settling in nicely."
+excerpt: "I have my own study now, and a coffee station! 🛋️ ☕"
 categories: [updates]
 comments: false
 ---
