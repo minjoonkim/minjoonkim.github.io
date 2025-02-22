@@ -7,14 +7,14 @@ title: Minjoon Kim
 email: minjoon.kim89@gmail.com
 description: Minjoon's blog.
 url: https://minjoon.kim # the base hostname & protocol for your site
-keywords: ["HCI/UX", "Quantitative User Research", "Behavioral Data", "Ultimate"]
+keywords: [""]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Seoul
+timezone:          Europe/London
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -39,11 +39,12 @@ kramdown:
 owner:
   name: Minjoon
   avatar: avatar.jpg
-  job: "Ph.D Student at Seoul National University"
-  bio: "#ux_hci #quant_user_research #behavior_data"
+  job: "User Experience Researcher at EMBL-EBI"
+  bio: "#ux #mixed-methods #coffee #life"
   email: minjoon.kim89@gmail.com
   disqus-shortname: mjblog-3
-  twitter: ns9mj #username
+  twitter: _mnjn #username
+  bluesky: mnjn.bsky.social
   facebook: #username
   google:
     plus: #username

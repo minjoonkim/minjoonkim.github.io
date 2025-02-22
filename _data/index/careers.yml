@@ -5,9 +5,14 @@
 #   date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
 #   job: Programming Internship
 
+- name: EMBL-EBI
+  link: http://www.ebi.ac.uk/
+  date: Oct. 2022 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: User Experience Researcher
+
 - name: User eXperience Lab at Seoul National University
   link: http://ux.snu.ac.kr/
-  date: Mar. 2015 &ndash; <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Mar. 2015 &ndash; Oct. 2022
   job: Graduate Research Assistant
 
 - name: Redwood Interactive
