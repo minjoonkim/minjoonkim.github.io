@@ -1,10 +1,16 @@
 ---
 layout: post
 title: 📌 Recent News
-excerpt: "I have my own study now, and a coffee station! 🛋️ ☕"
+excerpt: "I'm attending ISMB 2025 at Liverpool. Let's chat!"
 categories: [updates]
 comments: false
 ---
+#### 🗓 2025-07
+
+I'm attending ISMB 2025 🧬 at Liverpool. Let's chat! ☕
+
+---
+
 #### 🗓 2025-02
 
 I have my own study now, and a coffee station! 🛋️ ☕
