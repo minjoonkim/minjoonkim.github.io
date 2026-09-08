@@ -1,7 +1,7 @@
 ---
 title: An example post
 date: 2026-09-08
-blurb: Delete this once you've written a real one — it exists so the writing page has something in it.
+blurb: Delete this once you've written a real one. It exists so the writing page has something in it.
 ---
 
 This file is here so you can see how a post renders. Body copy is set in

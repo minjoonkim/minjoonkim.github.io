@@ -1,14 +1,38 @@
+- title: UniProt website
+  org: EMBL-EBI
+  role: UX engineer
+  year: "2022"
+  dates: 2022 – present
+  current: true
+  tags: [mixed methods, scientific data]
+  summary: >-
+    Research and design for the UniProt website, where most of the world's
+    protein data gets looked up. I work across the interface so that dense
+    biological data is easier to find, read, and actually use.
+
+- title: UniProt user log study
+  org: EMBL-EBI
+  role: UX researcher
+  year: "2023"
+  dates: 2023 – 2025
+  current: true
+  tags: [log analysis, mixed methods, scientific data]
+  summary: >-
+    A big look at how researchers really use UniProt. I paired server logs with
+    qualitative work to catch the patterns people don't think to mention, then
+    fed them back into the design.
+
 - title: Prehension
   org: ShareOne Sillim
   role: Technical lead
   year: "2020"
   dates: Sep 2020 – Dec 2020
-  tags: [mixed methods, sensing]
+  tags: [mixed methods, sensing, data product]
   summary: >-
-    A non-intrusive people counter for the communal spaces of a women-only
-    co-living space in Seoul. Usage data fed real-time crowdedness information
-    to a web app and a physical dashboard, with machine learning predicting
-    hourly crowdedness for each space across the week.
+    A quiet people-counter for the shared spaces of a women-only co-living
+    house in Seoul. It fed live crowdedness to a web app and a small physical
+    dashboard, and learned to predict how busy each room would get, hour by
+    hour, through the week.
 
 - title: Culture Concierge & Preference Collection
   org: Korea Creative Contents Agency
@@ -17,30 +41,30 @@
   dates: May 2018 – Dec 2020
   tags: [user research, recommendation]
   summary: >-
-    A smart speaker service curating classical music, musicals, plays and
-    concerts. Combined research on cultural event consumption and agent usage
-    with individual preference collection to drive recommendations. Shipped on
-    Google Actions as ClassicMate.
+    A smart-speaker service that recommends classical music, musicals, plays,
+    and concerts. I studied how people choose cultural events and how they talk
+    to voice agents, then used what each person liked to drive the picks. It
+    shipped on Google Actions as ClassicMate.
 
 - title: Television Audio Experience
   org: Samsung Electronics
   role: Project manager
   year: "2017"
   dates: Mar 2017 – Dec 2017
-  tags: [mixed methods, log analysis]
+  tags: [mixed methods, log analysis, design guidelines]
   summary: >-
-    Mixed-methods research into household television watching. Collected and
-    analysed log data from TVs, remotes and Bluetooth trackers, deployed
-    chatbots for in-situ contextual data, and ran pre- and post-study
-    interviews to produce design guidelines.
+    A study of how households actually watch TV. I pulled logs from TVs,
+    remotes, and Bluetooth trackers, used chatbots to catch what people were
+    doing in the moment, and bracketed it with interviews before and after. It
+    came together as a set of design guidelines.
 
-- title: News Big Data — User Participatory Services
+- title: "News Big Data: User Participatory Services"
   org: Korea Press Foundation
   role: Project member
   year: "2016"
   dates: May 2016 – Dec 2016
   tags: [qualitative, service design]
   summary: >-
-    Analysis of news quotes from press releases and how people find news,
-    leading to an interface concept for participatory article writing backed
-    by official quotes and sources.
+    A look at how news quotes travel from press releases, and how people find
+    news in the first place. It led to an interface concept for writing
+    articles together, backed by official quotes and sources.

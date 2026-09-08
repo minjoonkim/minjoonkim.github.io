@@ -1,7 +1,14 @@
 - dates: 2022 –
-  role: User Experience Researcher, UniProt
-  org: EMBL-EBI
-  url: https://www.ebi.ac.uk/
+  orgs:
+    - name: UniProt
+      url: https://www.uniprot.org/
+    - name: EMBL-EBI
+      url: https://www.ebi.ac.uk/
+  roles:
+    - title: User Experience Engineer
+      dates: 2025 –
+    - title: User Experience Researcher
+      dates: 2022 – 2025
 
 - dates: 2015 – 2022
   role: Graduate Research Assistant

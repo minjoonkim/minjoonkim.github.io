@@ -9,29 +9,15 @@ layout: default
 
 <hr class="rule">
 
-<section class="band">
-  <div class="band__label">latest</div>
-  <div>
-    <ul class="notes">
-      {% for note in site.data.updates limit: 3 %}
-        <li>
-          <span class="notes__when">{{ note.date | date: "%-d %B %Y" }}</span>
-          <p class="notes__text">{{ note.text }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-    <p style="margin:0.9rem 0 0;font-size:var(--step-2)">
-      <a href="{{ '/now/' | relative_url }}">All notes</a>
-    </p>
-  </div>
-</section>
-
-<hr class="rule">
+{% assign current_projects = site.data.projects | where: "current", true %}
+{% assign past_projects = site.data.projects | where_exp: "p", "p.current != true" %}
+{% comment %} Tag tint is semantic: sage = method/approach, pink = focus/output. {% endcomment %}
+{% assign method_tags = "mixed methods,qualitative,log analysis,sensing,user research" | split: "," %}
 
 <section class="band">
-  <div class="band__label">projects</div>
+  <div class="band__label">current</div>
   <div>
-    {% for p in site.data.projects %}
+    {% for p in current_projects %}
       <article class="entry">
         <h3 class="entry__title">{{ p.title }}</h3>
         <p class="entry__meta">{{ p.org }} · {{ p.role }} · {{ p.dates }}</p>
@@ -39,7 +25,7 @@ layout: default
         {% if p.tags %}
           <ul class="tags">
             {% for t in p.tags %}
-              <li class="tag{% if forloop.index > 1 %} tag--alt{% endif %}">{{ t }}</li>
+              <li class="tag{% unless method_tags contains t %} tag--alt{% endunless %}">{{ t }}</li>
             {% endfor %}
           </ul>
         {% endif %}
@@ -51,7 +37,29 @@ layout: default
 <hr class="rule">
 
 <section class="band">
-  <div class="band__label">publications</div>
+  <div class="band__label">past projects</div>
+  <div>
+    {% for p in past_projects %}
+      <article class="entry">
+        <h3 class="entry__title">{{ p.title }}</h3>
+        <p class="entry__meta">{{ p.org }} · {{ p.role }} · {{ p.dates }}</p>
+        <p class="entry__body">{{ p.summary }}</p>
+        {% if p.tags %}
+          <ul class="tags">
+            {% for t in p.tags %}
+              <li class="tag{% unless method_tags contains t %} tag--alt{% endunless %}">{{ t }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<hr class="rule">
+
+<section class="band">
+  <div class="band__label">publications &amp; talks</div>
   <div>
     {% for pub in site.data.publications %}
       <div class="pub">
@@ -64,6 +72,9 @@ layout: default
         </p>
       </div>
     {% endfor %}
+    <p style="margin:0.9rem 0 0;font-size:var(--step-2)">
+      Full list on <a href="https://orcid.org/0000-0003-3167-8538">ORCID 0000-0003-3167-8538</a>
+    </p>
   </div>
 </section>
 
@@ -76,9 +87,18 @@ layout: default
       <li>
         <span class="rows__when">{{ b.dates }}</span>
         <div>
-          <p class="rows__what"><strong>{{ b.role }}</strong></p>
+          {% if b.roles %}
+            <div class="rows__roles">
+              {% for r in b.roles %}
+                <strong class="rows__role-title">{{ r.title }}</strong>
+                <span class="rows__pos-when">{{ r.dates }}</span>
+              {% endfor %}
+            </div>
+          {% else %}
+            <p class="rows__what"><strong>{{ b.role }}</strong></p>
+          {% endif %}
           <p class="rows__sub">
-            {% if b.url %}<a href="{{ b.url }}">{{ b.org }}</a>{% else %}{{ b.org }}{% endif %}
+            {% if b.orgs %}{% for o in b.orgs %}{% if o.url %}<a href="{{ o.url }}">{{ o.name }}</a>{% else %}{{ o.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% elsif b.url %}<a href="{{ b.url }}">{{ b.org }}</a>{% else %}{{ b.org }}{% endif %}
           </p>
         </div>
       </li>
@@ -95,10 +115,17 @@ layout: default
       <li>
         <span class="rows__when">{{ e.dates }}</span>
         <div>
-          <p class="rows__what">
-            <strong>{% if e.url %}<a href="{{ e.url }}">{{ e.school }}</a>{% else %}{{ e.school }}{% endif %}</strong>
-          </p>
-          {% if e.note %}<p class="rows__sub">{{ e.note }}</p>{% endif %}
+          {% if e.degree %}
+            <p class="rows__what"><strong>{{ e.degree }}</strong></p>
+            <p class="rows__sub">
+              {% if e.url %}<a href="{{ e.url }}">{{ e.school }}</a>{% else %}{{ e.school }}{% endif %}
+            </p>
+          {% else %}
+            <p class="rows__what">
+              <strong>{% if e.url %}<a href="{{ e.url }}">{{ e.school }}</a>{% else %}{{ e.school }}{% endif %}</strong>
+            </p>
+            {% if e.note %}<p class="rows__sub">{{ e.note }}</p>{% endif %}
+          {% endif %}
         </div>
       </li>
     {% endfor %}
@@ -125,12 +152,3 @@ layout: default
   </div>
 </section>
 {% endif %}
-
-<hr class="rule">
-
-<section class="band">
-  <div class="band__label">contact</div>
-  <p class="prose" style="margin:0">
-    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
-  </p>
-</section>

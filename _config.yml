@@ -1,7 +1,7 @@
 title: Minjoon Kim
-tagline: UX researcher at EMBL-EBI
+tagline: UX Engineer at EMBL-EBI
 description: >-
-  Minjoon Kim — UX researcher at EMBL-EBI, working on UniProt.
+  Minjoon Kim — UX Engineer at EMBL-EBI, working on UniProt.
   Mixed-methods research for scientific data infrastructure.
 url: "https://minjoon.kim"
 baseurl: ""
@@ -10,13 +10,14 @@ lang: en
 author:
   name: Minjoon Kim
   name_ko: 김민준
-  email: hello@minjoon.kim
 
 social:
   - name: GitHub
     url: https://github.com/minjoonkim
   - name: LinkedIn
     url: https://linkedin.com/in/minjoonkim10
+  - name: ORCID
+    url: https://orcid.org/0000-0003-3167-8538
 
 nav:
   - title: Home
