@@ -1,0 +1,93 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink-body);
+  font-family: var(--sans);
+  font-size: var(--step-3);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.25;
+  margin: 0;
+}
+
+h1 { font-size: var(--step-5); letter-spacing: -0.012em; }
+h2 { font-size: var(--step-4); }
+h3 { font-size: var(--step-3); }
+
+a {
+  color: var(--olive);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 120ms ease, color 120ms ease;
+}
+a:hover { color: var(--olive-deep); border-bottom-color: currentColor; }
+a:focus-visible {
+  outline: 2px solid var(--olive);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+// Prose gets the serif. Everything else stays in the grotesque.
+.prose {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  line-height: var(--prose-leading);
+  letter-spacing: var(--prose-tracking);
+  color: var(--ink-body);
+  max-width: var(--measure);
+}
+.prose p { margin: 0 0 1.1em; }
+.prose p:last-child { margin-bottom: 0; }
+.prose em { font-style: italic; }
+.prose strong { font-weight: 600; color: var(--ink); }
+
+code, pre {
+  font-family: var(--mono);
+  font-size: 0.85em;
+}
+pre {
+  background: var(--paper-sunk);
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  border-radius: 2px;
+  line-height: 1.6;
+}
+code { background: var(--paper-sunk); padding: 0.1em 0.35em; border-radius: 2px; }
+pre code { background: none; padding: 0; }
+
+img { max-width: 100%; height: auto; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2.5rem 0;
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: 1rem; top: 1rem;
+  background: var(--paper);
+  padding: 0.5rem 0.9rem;
+  z-index: 10;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+:lang(ko) {
+  font-family: "Pretendard", var(--sans);
+}

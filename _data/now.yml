@@ -1,0 +1,13 @@
+# The /now/ page. Update when it stops being true — once or twice a year is fine.
+updated: 2026-09-01
+
+sections:
+  - heading: Work
+    items:
+      - Research and UX writing for UniProt at EMBL-EBI.
+      - Thinking about information architecture for protein data.
+
+  - heading: Away from the desk
+    items:
+      - Still playing ultimate, less competitively than I used to.
+      - Working through a slow rotation of single-origin coffee.

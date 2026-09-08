@@ -1,0 +1,13 @@
+# Short dated notes. Newest first.
+# Three most recent appear on the homepage; all appear on /now/.
+# One YAML entry is the whole ceremony — no post, no front matter.
+
+- date: 2026-09-01
+  text: >-
+    Back from ISMB. Notes on how researchers actually navigate UniProt
+    are slowly turning into something writeable.
+
+- date: 2026-07-14
+  text: >-
+    Rebuilt this site from scratch. Fewer pages, more of the things
+    I want people to find.

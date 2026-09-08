@@ -1,0 +1,10 @@
+<footer class="foot">
+  <span>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
+  <ul>
+    {% for s in site.social %}
+      <li><a href="{{ s.url }}" rel="me">{{ s.name }}</a></li>
+    {% endfor %}
+    <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+    <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+  </ul>
+</footer>
