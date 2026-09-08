@@ -1,7 +1,8 @@
 :root {
-  // Palette — drawn from oat paper, olive, chrome, terracotta, dusty pink.
-  --paper:        #F2ECE1;
-  --paper-sunk:   #EAE3D5;
+  // Palette — warm off-white paper, olive, cool chrome hairlines,
+  // obangsaek yellow accent (hwang / gaenari), sage + pink tag tints.
+  --paper:        #F7F3EF;
+  --paper-sunk:   #EDE8E2;
   --ink:          #2A2E2B;
   --ink-body:     #3C423D;
   --muted:        #7D827B;
@@ -11,9 +12,10 @@
   --rule:         #B7BDBB;
   --rule-soft:    #D7D3C8;
 
-  --olive:        #5F7350;
-  --olive-deep:   #465840;
-  --terracotta:   #B96F4C;
+  --olive:        #556F3A;
+  --olive-deep:   #3F5430;
+  --hwang:        #BD9C46;   // yellow accent, deep tint — for note text
+  --gaenari:      #EFC93A;   // yellow accent, bright tint (forsythia) — the mark
 
   --sage-bg:      #DFE4D6;
   --sage-fg:      #48583C;
@@ -31,9 +33,9 @@
   --prose-tracking: 0.008em;
 
   // Layout
-  --measure: 62ch;
-  --shell: 54rem;
-  --label-col: 6rem;
+  --measure: 66ch;
+  --shell: 58rem;
+  --label-col: 6.5rem;
   --gutter: 2rem;
 
   --step-1: 0.6875rem;
