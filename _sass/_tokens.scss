@@ -1,0 +1,44 @@
+:root {
+  // Palette — drawn from oat paper, olive, chrome, terracotta, dusty pink.
+  --paper:        #F2ECE1;
+  --paper-sunk:   #EAE3D5;
+  --ink:          #2A2E2B;
+  --ink-body:     #3C423D;
+  --muted:        #7D827B;
+  --faint:        #969A93;
+
+  // Chrome hairlines — deliberately cooler than the ground.
+  --rule:         #B7BDBB;
+  --rule-soft:    #D7D3C8;
+
+  --olive:        #5F7350;
+  --olive-deep:   #465840;
+  --terracotta:   #B96F4C;
+
+  --sage-bg:      #DFE4D6;
+  --sage-fg:      #48583C;
+  --pink-bg:      #F0D9D0;
+  --pink-fg:      #8E5340;
+
+  // Type
+  --sans:  "Hanken Grotesk", system-ui, -apple-system, sans-serif;
+  --serif: "Faustina", Georgia, serif;
+  --mono:  ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  // Body copy — the two dials. Turn these, not the font.
+  --prose-size: 1.03rem;
+  --prose-leading: 1.85;
+  --prose-tracking: 0.008em;
+
+  // Layout
+  --measure: 62ch;
+  --shell: 54rem;
+  --label-col: 6rem;
+  --gutter: 2rem;
+
+  --step-1: 0.6875rem;
+  --step-2: 0.8125rem;
+  --step-3: 0.9375rem;
+  --step-4: 1.1875rem;
+  --step-5: 2.125rem;
+}

@@ -1,0 +1,46 @@
+- title: Prehension
+  org: ShareOne Sillim
+  role: Technical lead
+  year: "2020"
+  dates: Sep 2020 – Dec 2020
+  tags: [mixed methods, sensing]
+  summary: >-
+    A non-intrusive people counter for the communal spaces of a women-only
+    co-living space in Seoul. Usage data fed real-time crowdedness information
+    to a web app and a physical dashboard, with machine learning predicting
+    hourly crowdedness for each space across the week.
+
+- title: Culture Concierge & Preference Collection
+  org: Korea Creative Contents Agency
+  role: Project manager
+  year: "2018"
+  dates: May 2018 – Dec 2020
+  tags: [user research, recommendation]
+  summary: >-
+    A smart speaker service curating classical music, musicals, plays and
+    concerts. Combined research on cultural event consumption and agent usage
+    with individual preference collection to drive recommendations. Shipped on
+    Google Actions as ClassicMate.
+
+- title: Television Audio Experience
+  org: Samsung Electronics
+  role: Project manager
+  year: "2017"
+  dates: Mar 2017 – Dec 2017
+  tags: [mixed methods, log analysis]
+  summary: >-
+    Mixed-methods research into household television watching. Collected and
+    analysed log data from TVs, remotes and Bluetooth trackers, deployed
+    chatbots for in-situ contextual data, and ran pre- and post-study
+    interviews to produce design guidelines.
+
+- title: News Big Data — User Participatory Services
+  org: Korea Press Foundation
+  role: Project member
+  year: "2016"
+  dates: May 2016 – Dec 2016
+  tags: [qualitative, service design]
+  summary: >-
+    Analysis of news quotes from press releases and how people find news,
+    leading to an interface concept for participatory article writing backed
+    by official quotes and sources.

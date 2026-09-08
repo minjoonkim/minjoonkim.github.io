@@ -1,0 +1,88 @@
+.shell {
+  max-width: var(--shell);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+// The mark — the one terracotta element on the page.
+.mark {
+  width: 2.25rem;
+  height: 0.375rem;
+  background: var(--terracotta);
+  margin-bottom: 2rem;
+}
+
+.masthead__name {
+  margin: 0;
+}
+.masthead__ko {
+  font-family: var(--sans);
+  font-size: var(--step-4);
+  color: var(--muted);
+  margin: 0.25rem 0 0;
+  font-weight: 400;
+}
+.masthead__role {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  color: var(--ink-body);
+  margin: 0.85rem 0 0;
+  max-width: var(--measure);
+}
+
+.rule {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 1.75rem 0;
+}
+
+// Two-column: narrow label rail, wide content.
+.band {
+  display: grid;
+  grid-template-columns: var(--label-col) minmax(0, 1fr);
+  gap: var(--gutter);
+  align-items: start;
+}
+.band + .band { margin-top: 2rem; }
+
+.band__label {
+  font-size: var(--step-1);
+  color: var(--faint);
+  padding-top: 0.3rem;
+  letter-spacing: 0.015em;
+}
+
+@media (max-width: 46rem) {
+  .band {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+  .band__label { padding-top: 0; }
+  :root { --shell: 100%; }
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom-color: var(--rule);
+}
+
+.foot {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+  font-size: var(--step-2);
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  justify-content: space-between;
+}
+.foot ul { display: flex; gap: 1.2rem; margin: 0; padding: 0; list-style: none; }

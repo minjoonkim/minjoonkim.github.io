@@ -1,72 +1,54 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
 title: Minjoon Kim
-email: minjoon.kim89@gmail.com
-description: Minjoon's blog.
-url: https://minjoon.kim # the base hostname & protocol for your site
-keywords: [""]
+tagline: UX researcher at EMBL-EBI
+description: >-
+  Minjoon Kim — UX researcher at EMBL-EBI, working on UniProt.
+  Mixed-methods research for scientific data infrastructure.
+url: "https://minjoon.kim"
+baseurl: ""
+lang: en
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Europe/London
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+author:
+  name: Minjoon Kim
+  name_ko: 김민준
+  email: hello@minjoon.kim
+
+social:
+  - name: GitHub
+    url: https://github.com/minjoonkim
+  - name: LinkedIn
+    url: https://linkedin.com/in/minjoonkim10
+
+nav:
+  - title: Home
+    url: /
+  - title: Writing
+    url: /writing/
+  - title: Now
+    url: /now/
+
+permalink: /writing/:year/:title/
+timezone: Europe/London
 
 plugins:
-    - jekyll-seo-tag
-    - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+feed:
+  path: /feed.xml
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Minjoon
-  avatar: avatar.jpg
-  job: "User Experience Researcher at EMBL-EBI"
-  bio: "#ux #mixed-methods #coffee"
-  email: minjoon.kim89@gmail.com
-  disqus-shortname: mjblog-3
-  twitter: _mnjn #username
-  bluesky: mnjn.bsky.social
-  facebook: #username
-  google:
-    plus: #username
-    analytics: UA-45185383-2
-    verify: zDcCrM3fLOB1u7jLSTLPnNf-a2RjHX_henj7qKgRFZ4
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: minjoonkim #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: minjoonkim10 #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  telegram: #username
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

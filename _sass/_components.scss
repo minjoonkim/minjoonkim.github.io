@@ -1,0 +1,115 @@
+.entry { margin: 0 0 2rem; }
+.entry:last-child { margin-bottom: 0; }
+.entry__title {
+  font-size: var(--step-4);
+  font-weight: 500;
+  color: var(--ink);
+  margin: 0;
+}
+.entry__meta {
+  font-size: var(--step-2);
+  color: var(--muted);
+  margin: 0.2rem 0 0;
+}
+.entry__body {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  line-height: var(--prose-leading);
+  letter-spacing: var(--prose-tracking);
+  color: var(--ink-body);
+  margin: 0.6rem 0 0;
+  max-width: var(--measure);
+}
+
+.tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.7rem 0 0; padding: 0; list-style: none; }
+.tag {
+  font-size: var(--step-1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  background: var(--sage-bg);
+  color: var(--sage-fg);
+}
+.tag--alt { background: var(--pink-bg); color: var(--pink-fg); }
+
+// Publications and CV rows: a dated list, not cards.
+.rows { margin: 0; padding: 0; list-style: none; }
+.rows > li {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.rows > li:last-child { border-bottom: 0; }
+.rows__when { font-size: var(--step-2); color: var(--faint); }
+.rows__what { margin: 0; }
+.rows__what strong { font-weight: 500; color: var(--ink); }
+.rows__sub {
+  font-size: var(--step-2);
+  color: var(--muted);
+  margin: 0.15rem 0 0;
+}
+
+@media (max-width: 30rem) {
+  .rows > li { grid-template-columns: 1fr; gap: 0.15rem; }
+}
+
+.pub { padding: 0.85rem 0; border-bottom: 1px solid var(--rule-soft); }
+.pub:last-child { border-bottom: 0; }
+.pub__title {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  line-height: 1.45;
+  color: var(--ink);
+  margin: 0;
+}
+.pub__meta { font-size: var(--step-2); color: var(--muted); margin: 0.25rem 0 0; }
+.pub__note { color: var(--terracotta); }
+
+// Dated notes — the low-friction update format.
+.notes { margin: 0; padding: 0; list-style: none; }
+.notes > li { padding: 0.8rem 0; border-bottom: 1px solid var(--rule-soft); }
+.notes > li:last-child { border-bottom: 0; }
+.notes__when { font-size: var(--step-1); color: var(--faint); display: block; margin-bottom: 0.2rem; }
+.notes__text {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  line-height: 1.65;
+  color: var(--ink-body);
+  margin: 0;
+  max-width: var(--measure);
+}
+
+.postlist { margin: 0; padding: 0; list-style: none; }
+.postlist > li { padding: 0.9rem 0; border-bottom: 1px solid var(--rule-soft); }
+.postlist > li:last-child { border-bottom: 0; }
+.postlist__when { font-size: var(--step-2); color: var(--faint); }
+.postlist__title { font-size: var(--step-4); font-weight: 500; margin: 0.1rem 0 0; }
+.postlist__blurb {
+  font-family: var(--serif);
+  font-size: var(--step-3);
+  color: var(--muted);
+  margin: 0.25rem 0 0;
+  max-width: var(--measure);
+}
+
+.empty {
+  font-family: var(--serif);
+  font-size: var(--prose-size);
+  color: var(--muted);
+  max-width: var(--measure);
+}
+
+.post__title { margin: 0 0 0.4rem; }
+.post__date { font-size: var(--step-2); color: var(--faint); margin: 0 0 2rem; }
+.post .prose h2 { margin: 2rem 0 0.6rem; }
+.post .prose h3 { margin: 1.5rem 0 0.4rem; }
+.post .prose ul, .post .prose ol { padding-left: 1.2rem; }
+.post .prose li { margin-bottom: 0.4em; }
+.post .prose blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1.1rem;
+  border-left: 2px solid var(--rule);
+  border-radius: 0;
+  color: var(--muted);
+}

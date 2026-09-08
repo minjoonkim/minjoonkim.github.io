@@ -1,0 +1,36 @@
+- authors: Sang Ah Park, Yoon Young Lee, Soobin Cho, Minjoon Kim, Joongseek Lee
+  title: >-
+    Knock Knock, Here Is an Answer from Next Door: Designing a Knowledge
+    Sharing Chatbot to Connect Residents
+  venue: Companion Publication of CSCW '21
+  year: "2021"
+  # TODO: the live site currently points this at the CHI '20 DOI by mistake.
+  # Add the correct CSCW '21 link here.
+  url:
+
+- authors: Minjoon Kim, Yoojung Kim, Joongseek Lee
+  title: Utilizing Response Time to Find In-between Ratings within Likes and Dislikes
+  venue: Extended Abstracts of CHI '20
+  year: "2020"
+  url: https://dl.acm.org/doi/abs/10.1145/3334480.3383049
+
+- authors: Junhan Kim, Yoojung Kim, Byungjoon Kim, Sukyung Yun, Minjoon Kim, Joongseek Lee
+  title: Can a Machine Tend to Teenagers' Emotional Needs? A Study with Conversational Agents
+  venue: Extended Abstracts of CHI '18
+  year: "2018"
+  url: https://dl.acm.org/doi/abs/10.1145/3170427.3188548
+
+- authors: Minjoon Kim, Jinyoung Kim, Sugyo Han, Joongseek Lee
+  title: A Data-driven Approach to Explore Television Viewing in the Household Environment
+  venue: Proceedings of TVX '18
+  year: "2018"
+  url: https://dl.acm.org/citation.cfm?id=3210829
+
+- authors: Minjoon Kim, Nuri Na, Joongseek Lee
+  title: >-
+    Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers
+    in the Dongdae-mun Fashion District
+  venue: iConference 2017 Proceedings, Vol. 2, 43–53
+  year: "2017"
+  note: Lee Dirks Award for Best Paper nomination
+  url: https://www.ideals.illinois.edu/handle/2142/98871

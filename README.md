@@ -1,45 +1,82 @@
-# Update 05/06/2016
+# minjoon.kim
 
-Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
+Jekyll 4 site, built and deployed by GitHub Actions.
 
-This project is under MIT license, so feel free to make it your own.
+## Design
 
-# Leonids Jekyll Themes
+- **Ground** oat `#F2ECE1`, ink warm charcoal `#2A2E2B`
+- **Hairlines** cool chrome `#B7BDBB` — deliberately cooler than the ground
+- **Links** olive `#5F7350`; **mark** terracotta `#B96F4C`, used once per page
+- **Tints** sage and dusty pink, for tags only
+- **Type** Hanken Grotesk for headings, labels, nav and UI; Faustina for
+  paragraphs; system mono for code
+- **Layout** narrow label rail plus content column, collapsing to one column
+  under 46rem
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
+Every colour and size lives in `_sass/_tokens.scss`. Change it there, nowhere else.
 
-## What is Leonids?
+## Setup
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+```
+bundle install
+bundle exec jekyll serve
+```
 
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
+Then set the repo's Pages source to **GitHub Actions** (Settings → Pages →
+Build and deployment → Source). The workflow in `.github/workflows/deploy.yml`
+handles the rest on every push to `main`.
 
-## Quick setup
+## Adding a Korean font
 
-`git clone https://github.com/renyuanz/leonids`
+The site expects a subset Pretendard at
+`assets/fonts/Pretendard-Regular.subset.woff2`. From the official repo
+(`orioncactus/pretendard`, SIL OFL — not the `fonts-archive` mirror):
 
-`cd leonids`
+```
+pip install fonttools brotli
+pyftsubset Pretendard-Regular.otf \
+  --text="김민준" --flavor=woff2 \
+  --output-file=assets/fonts/Pretendard-Regular.subset.woff2
+```
 
-`jekyll server`
+`unicode-range` in `_tokens.scss` scopes it to Hangul, so Pretendard can never
+override Hanken for Latin text. If you start writing Korean posts, swap the
+subset for the full dynamic subset and widen that rule.
 
-Check out your awesome blog at `http://localhost:4000` and Cheers!
+## Updating content
 
-## Resume Page by [@Skn0tt](https://github.com/Skn0tt)
-Leonids features a simple resume page. It is divided up into five sections: 
+| What | Where |
+|---|---|
+| Short dated notes | `_data/updates.yml` — one entry, no post needed |
+| Now page | `_data/now.yml` |
+| Projects | `_data/projects.yml` |
+| Publications | `_data/publications.yml` |
+| Roles and education | `_data/bio.yml`, `_data/education.yml` |
+| About paragraphs | `index.html` |
+| Posts | `_posts/YYYY-MM-DD-slug.md` |
 
-* Bio (Edit \_data/index/careers.yml)
-* Education (Edit \_data/index/education.yml)
-* Skills (Edit \_data/index/skills.yml)
-* Projects (Edit \_data/index/projects.yml)
-* About (Edit \_includes/sections/about.html)
+The CV is data, not markup — updating it is editing YAML.
 
-You can put all your info into these files, and they will be featured on the resume page.
+## Body copy
 
-## TODO
+Two dials in `_sass/_tokens.scss`:
 
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+```
+--prose-size: 1.03rem;
+--prose-leading: 1.85;
+```
+
+Faustina has a large x-height and a fairly economical set width, so it runs
+tighter than it looks. If prose feels cramped, raise the leading before the
+size.
+
+## Still to do
+
+- [ ] Subset and commit the Pretendard file
+- [ ] Delete `_posts/2026-09-08-example-post.md`
+- [ ] Fix the CSCW '21 publication URL in `_data/publications.yml` — the old
+      site pointed it at the CHI '20 DOI
+- [ ] Replace `hello@minjoon.kim` in `_config.yml` with a real address
+- [ ] Add an `og-image.png` and reference it in `_config.yml` for link previews
+- [ ] Decide whether to keep the old `/articles/...` URLs alive with
+      `jekyll-redirect-from`, or let them go
