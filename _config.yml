@@ -22,12 +22,12 @@ social:
 nav:
   - title: Home
     url: /
-  - title: Writing
-    url: /writing/
+  - title: Posts
+    url: /posts/
   - title: Now
     url: /now/
 
-permalink: /writing/:year/:title/
+permalink: /posts/:year/:title/
 timezone: Europe/London
 
 plugins:

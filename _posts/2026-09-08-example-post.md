@@ -1,7 +1,7 @@
 ---
 title: An example post
 date: 2026-09-08
-blurb: Delete this once you've written a real one. It exists so the writing page has something in it.
+blurb: Delete this once you've written a real one. It exists so the posts page has something in it.
 ---
 
 This file is here so you can see how a post renders. Body copy is set in
@@ -15,7 +15,7 @@ Lists, links and quotes all inherit from the same token set, so changing
 paragraph on the site at once.
 
 - Front matter needs `title` and `date`
-- `blurb` is optional and shows in the writing list
+- `blurb` is optional and shows in the posts list
 - Filenames follow `YYYY-MM-DD-slug.md`
 
 > Quotes sit against a chrome hairline rather than a coloured block.
